@@ -17,7 +17,7 @@ robots = "all"
 
 disableImageZoom = false
 disableImageOptimization = false
-disableTextInHeader = true
+disableTextInHeader = false
 
 defaultBackgroundImage = "/img/mountains.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"

@@ -1,15 +1,15 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "TechGeeks"
+title = "INNOVATION | TechGeeks"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "logo/png/Black_logo-no_background.png"
-  secondaryLogo = "logo/png/White_logo-no_background.png"
+  logo = "logo/png/Black_logo-no_background_cropped.png"
+  secondaryLogo = "logo/png/White_logo-no_background_cropped.png"
   description = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   copyright = "© Copyright { year }, All Rights Reserved | TechGeeks"
 
