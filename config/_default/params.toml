@@ -17,7 +17,7 @@ robots = "all"
 
 disableImageZoom = false
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 
 defaultBackgroundImage = "/img/mountains.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"
@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  # homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  homepageImage = "/img/mountains.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 10
   showMoreLink = true

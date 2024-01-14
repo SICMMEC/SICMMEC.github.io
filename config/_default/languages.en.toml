@@ -8,14 +8,14 @@ title = "TechGeeks"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  # secondaryLogo = "PATH"
+  logo = "logo/png/Black_logo-no_background.png"
+  secondaryLogo = "logo/png/White_logo-no_background.png"
   description = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   copyright = "© Copyright { year }, All Rights Reserved | TechGeeks"
 
 [author]
   name = "Student Innovation Club"
-  image = "img/blowfish_logo.png"
+  image = "logo/mmec_logo.png"
   headline = "At Maratha Mandal Engineering College, Belagavi"
   bio = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   links = [
