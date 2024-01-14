@@ -11,80 +11,35 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Docs"
+  name = "Events"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "Projects"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Samples"
+  name = "Members"
   pageRef = "samples"
   weight = 16
 
 [[main]]
-  name = "Examples"
+  name = "About"
+  pageRef = "samples"
   weight = 20
 
 [[main]]
-  name = "Showcase"
-  parent = "Examples"
-  pageRef = "examples"
-  weight = 30
-
-[[main]]
-  name = "Recipes"
-  parent = "Examples"
-  pageRef = "guides"
-  weight = 40
-
-[[main]]
-  name = "Users"
+  name = "Contact"
   pageRef = "users"
   weight = 90
 
-#[[main]]
-#  name = "Merch"
-#  url = "http://tee.pub/lic/qwSlWVBL5zc"
-#  weight = 100
-
-#[[main]]
-#  name = "Test"
-#  pageRef = "pagTest"
-#  weight = 1000
-
 [[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
-
-[[main]]
-  identifier = "mastodon"
-  pre = "mastodon"
-  url = "https://masto.ai/@blowfish"
-  weight = 300
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 400
+   name="  "
 
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
-
- [[footer]]
-   name = "Authors"
-   pageRef = "authors"
-   weight = 20

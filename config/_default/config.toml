@@ -3,19 +3,19 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://nunocoracao.github.io/blowfish"
+baseURL = "https://sicmmec.github.io/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
-paginate = 100
-summaryLength = 30
+paginate = 10
+summaryLength = 3
 
 buildDrafts = false
 buildFuture = false
 
-googleAnalytics = "G-PEDMYR1V0K"
+# googleAnalytics = "G-PEDMYR1V0K"
 
 [imaging]
   anchor = 'Center'
