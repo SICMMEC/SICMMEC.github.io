@@ -12,27 +12,27 @@
 
 [[main]]
   name = "Events"
-  pageRef = "docs"
+  pageRef = "/events"
   weight = 10
 
 [[main]]
   name = "Projects"
-  pageRef = "docs/shortcodes"
+  pageRef = "/projects"
   weight = 15
 
 [[main]]
   name = "Members"
-  pageRef = "samples"
+  pageRef = "/members"
   weight = 16
 
 [[main]]
   name = "About"
-  pageRef = "samples"
+  pageRef = "/about"
   weight = 20
 
 [[main]]
   name = "Contact"
-  pageRef = "users"
+  pageRef = "/contact"
   weight = 90
 
 [[main]]
