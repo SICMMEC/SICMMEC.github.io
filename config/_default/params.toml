@@ -42,7 +42,7 @@ smartTOCHideUnfocusedChildren = true
   showRecent = false
   showRecentItems = 10
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = ""
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
@@ -95,24 +95,24 @@ smartTOCHideUnfocusedChildren = true
   excludedKinds = []
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
   showViews = true
   showLikes = true
-  showTableOfContents = true
-  cardView = false
+  showTableOfContents = false
+  cardView = true
 
 [term]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = true
   showLikes = true
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = true
   
 [firebase]
