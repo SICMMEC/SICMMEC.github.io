@@ -19,7 +19,7 @@ disableImageZoom = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/mist.jpeg"
+defaultBackgroundImage = "/img/ocean.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
