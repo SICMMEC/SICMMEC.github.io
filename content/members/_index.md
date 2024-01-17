@@ -7,4 +7,4 @@ cascade:
   showAuthor: false
   invertPagination: true
 ---
-This page is a repository of details of all Members in our Club.
+This page is a repository of details of all Members in our Club. Its a Taxonomy Page.

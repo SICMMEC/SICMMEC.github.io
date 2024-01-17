@@ -21,11 +21,8 @@ buildFuture = false
   anchor = 'Center'
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  author = "authors"
-  series = "series"
   member = "members"
+  department = "departments"
 
 [sitemap]
   changefreq = 'always'
