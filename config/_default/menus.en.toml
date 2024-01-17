@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 5
+
+[[main]]
   name = "Events"
   pageRef = "/events"
   weight = 10
@@ -23,21 +28,17 @@
 [[main]]
   name = "Members"
   pageRef = "/members"
-  weight = 16
+  weight = 20
 
 [[main]]
   name = "About"
   pageRef = "/about"
-  weight = 20
+  weight = 25
 
 [[main]]
   name = "Contact"
   pageRef = "/contact"
-  weight = 90
-
-[[main]]
-   name="  "
-
+  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
