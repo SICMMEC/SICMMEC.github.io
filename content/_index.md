@@ -1,5 +1,5 @@
 ---
-title: "Student Innovation Club at Maratha Mandal Engineering College"
+title: "Home"
 description: "This Site is a Digital Repository of Events, Project and Members of the TechGeeks Club."
 ---
 
