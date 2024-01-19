@@ -32,7 +32,7 @@ smartTOCHideUnfocusedChildren = true
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = false
+  showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -97,7 +97,7 @@ smartTOCHideUnfocusedChildren = true
 [taxonomy]
   showTermCount = false
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = true
   showViews = true
   showLikes = true
