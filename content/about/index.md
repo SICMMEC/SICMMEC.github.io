@@ -1,6 +1,7 @@
 ---
 title: "About Us"
 description: "This page is an About Us Page"
+heroStyle : "big"
 
 cascade:
   showDate: false
