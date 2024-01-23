@@ -2,6 +2,7 @@
 title: "Members"
 description: "This page is a repository of details of Members in our Club.	"
 
+
 cascade:
   showDate: false
   showAuthor: false
