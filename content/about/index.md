@@ -1,6 +1,6 @@
 ---
 title: "About Us"
-description: "This page is an About Us Page"
+description: "About Tech Geeks | Student Innovation Club @ Maratha Mandal Engineering College, Belagavi, Karnataka"
 showHero: true
 heroStyle: thumbAndBackground
 showDate: false

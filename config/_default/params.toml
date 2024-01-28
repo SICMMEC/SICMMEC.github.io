@@ -20,7 +20,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 
 defaultBackgroundImage = "/img/science.jpeg"
-defaultFeaturedImage = "/img/home.png"
+defaultFeaturedImage = "/img/animation.jpeg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -49,12 +49,12 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showDraftLabel = true
@@ -69,7 +69,7 @@ smartTOCHideUnfocusedChildren = true
   showTableOfContents = true
   showRelatedContent = true
   relatedContentLimit = 6
-  showTaxonomies = true 
+  showTaxonomies = true
   showAuthorsBadges = false
   showWordCount = true
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
@@ -77,14 +77,14 @@ smartTOCHideUnfocusedChildren = true
 
 [list]
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = false # only used when heroStyle equals background
-  layoutBackgroundHeaderSpace = false
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
-  showSummary = true
+  showSummary = false
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   showCards = true
   groupByYear = false
   cardView = false
@@ -97,7 +97,7 @@ smartTOCHideUnfocusedChildren = true
 [taxonomy]
   showTermCount = false
   showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -108,8 +108,8 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showTableOfContents = false
   groupByYear = false
   cardView = true

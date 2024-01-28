@@ -2,7 +2,8 @@
 title: "Network Packet Analysis Tool"
 date: 2023-08-09
 draft: false
-description: ""
+description: "Learn packet sniffing and analysis with Pcappng Analysis, a powerful Python tool with awesome features! 🐍🙌📊"
+members: ["shreyashkulkarni"]
 ---
 
 👋 Hello, network enthusiasts! Do you want to learn more about packet sniffing and pcap analysis? If so, you're in luck! I have a great tool to share with you today. It's called **Pcappng Analysis**, and it's a powerful packet analysis tool built with Python, Flask, npcap, and tshark. 🐍
@@ -32,5 +33,6 @@ Pcappng Analysis lets you capture, inspect, and analyze network packets in a use
 
 If you're interested in trying out Pcappng Analysis, you can download it from [GitHub](https://github.com/shreyashk003/Network-packet-analysis-tool) or visit the demo website. I hope you enjoy using it as much as I enjoyed creating it. Happy sniffing! 😊
 
-Check the tool here 👇
+### **GitHub Repository**
+Check the GitHub Repo here 👇
 {{< github repo="shreyashk003/Network-packet-analysis-tool" >}}
