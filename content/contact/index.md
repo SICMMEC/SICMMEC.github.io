@@ -1,10 +1,28 @@
 ---
 title: "Contact Us"
 description: "This page is an Contact Us Page"
-
-cascade:
-  showDate: false
-  showAuthor: false
-  invertPagination: true
+showHero: true
+heroStyle: thumbAndBackground
+showDate: false
+showAuthor: false
+showViews : false
+showLikes : false
+showWordCount : false
+showReadingTime : false
 ---
-This page is an Contact Us Page.
+<hr>
+If you're thinking about reaching out to us, don't hesitate to fill out this form. We're eager to hear from you and we'll get back to you as soon as possible...😊
+<br>
+<form action="https://formspree.io/f/mnqenkwy" method="POST" style="max-width: 100%; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);">
+  <label style="display: block; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Your email:</span><br>
+    <input type="email" name="email" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+  </label>
+  <label style="display: block; margin-bottom: 10px;">
+    <span style="font-weight: bold;">Your message:</span><br>
+    <textarea name="message" style="width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" rows="6"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer;">Send</button>
+</form>
+<hr>

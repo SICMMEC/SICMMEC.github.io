@@ -19,8 +19,8 @@ disableImageZoom = false
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/mountains.jpg"
-defaultFeaturedImage = "/img/bg.jpg"
+defaultBackgroundImage = "/img/science.jpeg"
+defaultFeaturedImage = "/img/home.png"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -38,7 +38,7 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/circle.gif" # used in: hero, and card
+  homepageImage = "/img/science.jpeg" # used in: hero, and card
   showRecent = false
   showRecentItems = 10
   showMoreLink = true

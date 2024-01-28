@@ -7,8 +7,5 @@ cascade:
   showAuthor: false
   invertPagination: true
 
-  showHero : true
-  heroStyle: "big"
-  
 ---
 Hey, I am Chandrasen Bhosle from the Electronics & Communications Enginnering Department. My Expertise are with Programming Arduino Boards and have a great grasp of Electronic Circuits and Components.	

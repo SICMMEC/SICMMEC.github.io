@@ -7,9 +7,6 @@ cascade:
   showAuthor: false
   invertPagination: true
 
-  showHero : true
-  heroStyle: "big"
-  
 ---
 
 Hey there! 👋 I'm Vighnesh Nilajakar, your friendly neighborhood Learning Engineer on a mission in the vast realm of Electronics and Communication. 🚀
