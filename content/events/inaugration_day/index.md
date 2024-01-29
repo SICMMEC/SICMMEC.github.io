@@ -1,7 +1,7 @@
 ---
 title: "Student Innovation Club Innaugration Day"
 description: "The Innaugration Day for SIC at MMEC"
-members: ["vighneshnilajakar", "vinayakkolavankar", "shreyashkulkarni", "chandrasenbhosle", "dgkulkarni", "sureshmashyal", "shubhabaravani", "sanjivanipawar"]
+members: ["vighneshnilajakar", "vinayakkolavankar", "shreyashkulkarni", "chandrasenbhosle", "dgkulkarni", "sureshmashyal", "shubhabaravani", "sanjivanipawar", "sonalitakawade"]
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget iaculis velit. Nunc quis vestibulum eros. In in suscipit dolor. Proin condimentum sed mi quis tempor. Duis metus ex, mollis sit amet venenatis eleifend, venenatis a odio. Etiam gravida condimentum augue, imperdiet egestas elit ultrices sit amet. Fusce bibendum, eros non tincidunt mattis, ex arcu efficitur lectus, non ullamcorper augue mauris eget velit. Praesent mi velit, consectetur vel lectus porta, dictum bibendum ipsum. Aenean volutpat nisl enim, a tincidunt libero mollis nec. Etiam auctor elementum felis, vel gravida justo semper et. Etiam leo dolor, gravida at neque eget, efficitur aliquet nisi. Morbi volutpat porttitor odio, a accumsan orci egestas non. Nulla eu sem sed ipsum ornare bibendum eget ac lacus. Praesent vitae pulvinar ante.
 

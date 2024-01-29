@@ -116,7 +116,7 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = true
   
 [firebase]
-#  apiKey = "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY"
+#  apiKey = "AIzaSyBKzZOSp_-jkFTOJDFnztYqMHi0xwuOUE8"
 #  authDomain = "blowfish-21fff.firebaseapp.com"
 #  projectId = "blowfish-21fff"
 #  storageBucket = "blowfish-21fff.appspot.com"
