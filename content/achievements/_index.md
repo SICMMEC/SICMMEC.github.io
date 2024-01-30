@@ -8,6 +8,6 @@ cascade:
   invertPagination: true
 ---
 {{< lead >}}
-Welcome to Tech Geeks SIC Achievements Page! 🌟 Explore our remarkable accomplishments, from winning competitions to spearheading innovative projects. Celebrate excellence, innovation, and collaboration with us. Dive in and be inspired! 🚀🏆
+🌟 Explore our remarkable accomplishments, from winning competitions to spearheading innovative projects. Celebrate excellence, innovation, and collaboration with us. Dive in and be inspired! 🚀🏆
 {{< /lead >}}
 <hr>

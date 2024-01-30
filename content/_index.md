@@ -10,7 +10,7 @@ description: "This Site is a Digital Repository of Events, Project and Members o
   breakLines=true
   loop=false
 >}}
-Welcome to Tech Geeks ! 🚀 
+Welcome to Tech Geeks! 🚀 
 {{< /typeit >}}
 
 {{< lead >}}
