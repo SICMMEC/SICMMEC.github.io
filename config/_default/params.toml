@@ -82,9 +82,9 @@ smartTOCHideUnfocusedChildren = true
   layoutBackgroundHeaderSpace = true
   showBreadcrumbs = false
   showSummary = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
   showCards = true
   groupByYear = false
   cardView = false
@@ -99,9 +99,9 @@ smartTOCHideUnfocusedChildren = true
   showHero = true
   heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
+  showViews = true
+  showLikes = true
+  showTableOfContents = true
   cardView = true
 
 [term]

@@ -5,8 +5,6 @@ showHero: true
 heroStyle: thumbAndBackground
 showDate: false
 showAuthor: false
-showViews : false
-showLikes : false
 showWordCount : false
 showReadingTime : false
 showZenMode : false
