@@ -9,6 +9,7 @@ showViews : false
 showLikes : false
 showWordCount : false
 showReadingTime : false
+showZenMode : false
 ---
 At Tech Geeks, we are all about fostering a vibrant culture of innovation and creativity among students. 💡 Our mission is to empower you to unleash your imagination, collaborate across disciplines, and turn your innovative ideas into impactful solutions for the world. 🌍
 

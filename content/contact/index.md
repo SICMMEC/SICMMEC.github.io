@@ -9,8 +9,12 @@ showViews : false
 showLikes : false
 showWordCount : false
 showReadingTime : false
+showZenMode : false
 ---
-If you're thinking about reaching out to us, don't hesitate to fill out this form. We're eager to hear from you and we'll get back to you as soon as possible...😊
+{{< lead >}}
+Feel free to reach out with any questions, suggestions, or collaboration opportunities. Your feedback is valuable to us as we strive to improve and grow our community. We look forward to connecting with you! 🚀✨
+{{< /lead >}}
+<hr>
 <form action="https://formspree.io/f/mnqenkwy" method="POST" style="max-width: 100%; margin: 0 auto; padding: 20px; background-color: #f9f9f9; border-radius: 8px; box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); color: #333;">
   <label style="display: block; margin-bottom: 10px;">
     <span style="font-weight: bold;">Your email:</span><br>

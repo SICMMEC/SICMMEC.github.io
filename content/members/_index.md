@@ -8,4 +8,7 @@ cascade:
   showAuthor: false
   invertPagination: true
 ---
-This page is a repository of details of all Members in our Club. Its a Taxonomy Page.
+{{< lead >}}
+Welcome to Tech Geeks SIC Members Page! 🌟 Meet our talented community of coders, designers, and entrepreneurs. Explore profiles for collaboration and inspiration. Join us in shaping the future of technology! 🚀✨
+{{< /lead >}}
+<hr>
