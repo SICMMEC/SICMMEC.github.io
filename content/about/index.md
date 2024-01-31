@@ -4,6 +4,8 @@ description: "About Tech Geeks | Student Innovation Club @ Maratha Mandal Engine
 showHero: true
 heroStyle: thumbAndBackground
 showDate: false
+showViews: false
+showLikes: false
 showAuthor: false
 showWordCount : false
 showReadingTime : false
