@@ -1,6 +1,8 @@
 ---
 title: "Home"
 description: "This Site is a Digital Repository of Events, Project and Members of the TechGeeks Club."
+showViews: false
+showLikes: false
 ---
 <hr>
  
