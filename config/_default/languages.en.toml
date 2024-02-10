@@ -19,13 +19,11 @@ title = "INNOVATION | TechGeeks"
   headline = "At Maratha Mandal Engineering College, Belagavi"
   bio = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   links = [
-    { discord = "" },
     { email = "mailto:sicmmec@gmail.com" },
     { facebook = ""},
     { github = "https://github.com/SICMMEC" },
     { instagram = "https://www.instagram.com/techgeeks.sicmmec/" },
     { linkedin = "" },
-    { reddit = "" },
     { x-twitter = "" },
     { youtube = "" }
   ]

@@ -17,3 +17,4 @@ Curious to peek into my tech adventures?\
 Dive into my portfolio. 👇\
 [https://vighneshnilajakar.github.io/](https://vighneshnilajakar.github.io/)
 \
+![Vighnesh Nilajakar's stats](https://github-readme-stats.vercel.app/api?username=VighneshNilajakar&show_icons=true&count_private=true&theme=tokyonight)
