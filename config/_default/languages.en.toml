@@ -20,7 +20,7 @@ title = "INNOVATION | TechGeeks"
   bio = "Student Innovation Club's Website @ Maratha Mandal's Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   links = [
     { email = "mailto:sicmmec@gmail.com" },
-    { facebook = ""},
+    { facebook = "https://www.facebook.com/profile.php?id=61556612242990"},
     { github = "https://github.com/SICMMEC" },
     { instagram = "https://www.instagram.com/techgeeks.sicmmec/" },
     { linkedin = "" },

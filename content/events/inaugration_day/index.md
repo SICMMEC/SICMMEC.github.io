@@ -3,7 +3,7 @@ title: "
 🎉 Inauguration Day: A New Beginning for Tech Geeks - SIC! 🚀
 "
 description: "The Innaugration Day for SIC at MMEC"
-members: ["vighneshnilajakar", "vinayakkolavankar", "shreyashkulkarni", "chandrasenbhosle", "dgkulkarni", "sureshmashyal", "shubhabaravani", "sanjivanipawar", "sonalitakawade", "bhavanikulkarni", "kushalsuryawanshi", "nikitavanjeri"]
+members: ["vighneshnilajakar", "vinayakkolavankar", "shreyashkulkarni", "chandrasenbhosle", "dgkulkarni", "sureshmashyal", "shubhabaravani", "sanjivanipawar", "sonalitakawade", "bhavanikulkarni", "kushalsuryawanshi", "nikitavanjeri", "varshalohar"]
 ---
 
 On a bright and bustling morning, the campus of Maratha Mandal Engineering College buzzed with anticipation as students, faculty, and guests gathered to witness a momentous occasion – the inauguration of Tech Geeks - Student Innovation Club (SIC). 🎈
