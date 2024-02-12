@@ -10,14 +10,14 @@ title = "INNOVATION | TechGeeks"
   dateFormat = "2 January 2006"
   logo = "logo/png/Black_logo-no_background_cropped.png"
   secondaryLogo = "logo/png/White_logo-no_background_cropped.png"
-  description = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
+  description = "Student Innovation Club's Website @ Maratha Mandal's Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   copyright = "© Copyright { year }, All Rights Reserved | TechGeeks"
 
 [author]
   name = "Student Innovation Club"
   image = "logo/mmec_logo.png"
-  headline = "At Maratha Mandal Engineering College, Belagavi"
-  bio = "Student Innovation Club's Website @ Maratha Mandal Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
+  headline = "At Maratha Mandal's Engineering College, Belagavi"
+  bio = "Student Innovation Club's Website @ Maratha Mandal's Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   links = [
     { email = "mailto:sicmmec@gmail.com" },
     { facebook = ""},

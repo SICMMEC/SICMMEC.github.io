@@ -16,10 +16,10 @@ Coding is my jam! From Python sorcery to weaving the intricate threads of MySQL,
 Curious to peek into my tech adventures?\
 Here are my Socials 👇\
 \
-[ {{<icon "link">}} ](https://vighneshnilajakar.github.io/)
-[ {{<icon "github">}} ](https://github.com/VighneshNilajakar)
-[ {{<icon "facebook">}} ](https://www.facebook.com/profile.php?id=100067126757072)
-[ {{<icon "linkedin">}} ](https://www.linkedin.com/in/vighneshnilajakar/) 
-[ {{<icon "x-twitter">}} ](https://twitter.com/VinuNilajakar) 
+| [ {{<icon "link">}} ](https://vighneshnilajakar.github.io/)
+| [ {{<icon "github">}} ](https://github.com/VighneshNilajakar)
+| [ {{<icon "facebook">}} ](https://www.facebook.com/profile.php?id=100067126757072)
+| [ {{<icon "linkedin">}} ](https://www.linkedin.com/in/vighneshnilajakar/) 
+| [ {{<icon "x-twitter">}} ](https://twitter.com/VinuNilajakar) |
 \
 ![Vighnesh Nilajakar's stats](https://github-readme-stats.vercel.app/api?username=VighneshNilajakar&show_icons=true&count_private=true&theme=tokyonight)
