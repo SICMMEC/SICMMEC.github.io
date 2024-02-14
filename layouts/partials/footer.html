@@ -18,7 +18,7 @@
 
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
-    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
       {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
       {{ . | emojify | markdownify }}
       {{- else }}
@@ -31,13 +31,18 @@
 
     {{/* Theme attribution */}}
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
-    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+    <p class="text-sm text-neutral-500 dark:text-neutral-400">
       {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
       }}
       {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
         href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
       {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+
+      {{ $developer := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="members/vighneshnilajakar/" target="_blank" rel="noopener noreferrer">Vighnesh Nilajakar</a>`
+      }}
+      {{ i18n "footer.developed_by" (dict "Developer" $developer ) | safeHTML }}
     </p>
     {{ end }}
 
