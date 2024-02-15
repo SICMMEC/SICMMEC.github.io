@@ -23,9 +23,9 @@ title = "INNOVATION | TechGeeks"
     { facebook = "https://www.facebook.com/profile.php?id=61556612242990"},
     { github = "https://github.com/SICMMEC" },
     { instagram = "https://www.instagram.com/techgeeks.sicmmec/" },
-    { linkedin = "" },
-    { x-twitter = "" },
-    { youtube = "" }
+    { linkedin = "https://www.linkedin.com/in/sicmmec/" },
+    { x-twitter = "https://twitter.com/sicmmec" },
+    { youtube = "https://www.youtube.com/@SICMMEC" }
   ]
 
   
