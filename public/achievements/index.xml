@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Achievements on INNOVATION | TechGeeks</title>
+    <link>http://localhost:1313/achievements/</link>
+    <description>Recent content in Achievements on INNOVATION | TechGeeks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/achievements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Meet 2024 @ BeTCA</title>
+      <link>http://localhost:1313/achievements/betca/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/achievements/betca/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

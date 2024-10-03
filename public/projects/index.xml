@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on INNOVATION | TechGeeks</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on INNOVATION | TechGeeks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Packet Analysis Tool</title>
+      <link>http://localhost:1313/projects/pcappng/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/pcappng/</guid>
+      <description>&lt;p&gt;👋 Hello, network enthusiasts! Do you want to learn more about packet sniffing and pcap analysis? If so, you&amp;rsquo;re in luck! I have a great tool to share with you today. It&amp;rsquo;s called &lt;strong&gt;Pcappng Analysis&lt;/strong&gt;, and it&amp;rsquo;s a powerful packet analysis tool built with Python, Flask, npcap, and tshark. 🐍&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/pcappng/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
