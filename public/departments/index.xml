@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Departments on INNOVATION | TechGeeks</title>
-    <link>http://localhost:62803/departments/</link>
+    <link>http://localhost:63331/departments/</link>
     <description>Recent content in Departments on INNOVATION | TechGeeks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
-    <atom:link href="http://localhost:62803/departments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63331/departments/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

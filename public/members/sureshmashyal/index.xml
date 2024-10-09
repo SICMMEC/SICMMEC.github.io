@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Suresh Mashyal on INNOVATION | TechGeeks</title>
-    <link>http://localhost:62803/members/sureshmashyal/</link>
+    <link>http://localhost:63331/members/sureshmashyal/</link>
     <description>Recent content in Dr. Suresh Mashyal on INNOVATION | TechGeeks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
-    <atom:link href="http://localhost:62803/members/sureshmashyal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63331/members/sureshmashyal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> 🎉 Inauguration Day: A New Beginning for Tech Geeks - SIC! 🚀 </title>
-      <link>http://localhost:62803/events/inaugration_day/</link>
+      <link>http://localhost:63331/events/inaugration_day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62803/events/inaugration_day/</guid>
+      <guid>http://localhost:63331/events/inaugration_day/</guid>
       <description>&lt;p&gt;On a bright and bustling morning, the campus of Maratha Mandal Engineering College buzzed with anticipation as students, faculty, and guests gathered to witness a momentous occasion – the inauguration of Tech Geeks - Student Innovation Club (SIC). 🎈&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:62803/events/inaugration_day/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63331/events/inaugration_day/featured.jpg" />
     </item>
     
     <item>
       <title>Web Venture Lab: A Student-Led Workshop on How to Build and Host a Website for Your Venture Using Google Sites and GitHub Pages ✨</title>
-      <link>http://localhost:62803/events/web_venture_lab/</link>
+      <link>http://localhost:63331/events/web_venture_lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62803/events/web_venture_lab/</guid>
+      <guid>http://localhost:63331/events/web_venture_lab/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;🚀 Unleash Your Digital Potential 
     &lt;div id=&#34;-unleash-your-digital-potential&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -35,7 +35,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Are you ready to embark on an exciting journey into the world of web development? Look no further than the Web Venture Lab workshop, where you&amp;rsquo;ll unlock the secrets of building and hosting your websites from scratch! Whether you&amp;rsquo;re a seasoned coder or a complete novice, this workshop is designed to empower you with the skills and knowledge you need to succeed in the digital age.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:62803/events/web_venture_lab/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63331/events/web_venture_lab/featured.jpg" />
     </item>
     
   </channel>

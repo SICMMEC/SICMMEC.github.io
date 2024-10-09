@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chandrasen Bhosle on INNOVATION | TechGeeks</title>
-    <link>http://localhost:62803/members/chandrasenbhosle/</link>
+    <link>http://localhost:63331/members/chandrasenbhosle/</link>
     <description>Recent content in Chandrasen Bhosle on INNOVATION | TechGeeks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
-    <atom:link href="http://localhost:62803/members/chandrasenbhosle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63331/members/chandrasenbhosle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> 🎉 Inauguration Day: A New Beginning for Tech Geeks - SIC! 🚀 </title>
-      <link>http://localhost:62803/events/inaugration_day/</link>
+      <link>http://localhost:63331/events/inaugration_day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:62803/events/inaugration_day/</guid>
+      <guid>http://localhost:63331/events/inaugration_day/</guid>
       <description>&lt;p&gt;On a bright and bustling morning, the campus of Maratha Mandal Engineering College buzzed with anticipation as students, faculty, and guests gathered to witness a momentous occasion – the inauguration of Tech Geeks - Student Innovation Club (SIC). 🎈&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:62803/events/inaugration_day/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63331/events/inaugration_day/featured.jpg" />
     </item>
     
   </channel>
