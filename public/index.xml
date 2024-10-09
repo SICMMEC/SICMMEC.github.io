@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Meet 2024 @ BeTCA</title>
+      <link>http://localhost:1313/achievements/betca/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/achievements/betca/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;🚀 Tech Meet 2024 - Belagavi Technology Companies Association (BeTCA) 
+    &lt;div id=&#34;-tech-meet-2024---belagavi-technology-companies-association-betca&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-tech-meet-2024---belagavi-technology-companies-association-betca&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Attended an eye-opening event at the &lt;strong&gt;Tech Meet 2024&lt;/strong&gt;, organized by the Belagavi Technology Companies Association (BeTCA). Better late than never! 😅&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/achievements/betca/featured.png" />
+    </item>
+    
     <item>
       <title>Network Packet Analysis Tool</title>
       <link>http://localhost:1313/projects/pcappng/</link>
@@ -16,16 +36,6 @@
       <guid>http://localhost:1313/projects/pcappng/</guid>
       <description>&lt;p&gt;👋 Hello, network enthusiasts! Do you want to learn more about packet sniffing and pcap analysis? If so, you&amp;rsquo;re in luck! I have a great tool to share with you today. It&amp;rsquo;s called &lt;strong&gt;Pcappng Analysis&lt;/strong&gt;, and it&amp;rsquo;s a powerful packet analysis tool built with Python, Flask, npcap, and tshark. 🐍&lt;/p&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/pcappng/featured.png" />
-    </item>
-    
-    <item>
-      <title>Tech Meet 2024 @ BeTCA</title>
-      <link>http://localhost:1313/achievements/betca/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/achievements/betca/</guid>
-      <description></description>
-      
     </item>
     
     <item>

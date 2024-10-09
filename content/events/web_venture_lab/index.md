@@ -1,6 +1,5 @@
 ---
 title: "Web Venture Lab: A Student-Led Workshop on How to Build and Host a Website for Your Venture Using Google Sites and GitHub Pages ✨"
-date: .Date 
 description: "Get ready to embark on an exciting journey into the world of web development with our upcoming blog post! Dive deep into the intricacies of building and hosting websites as we explore the ins and outs of Google Sites, GitHub Pages, and more. Whether you're a seasoned developer or a curious beginner, this blog post will equip you with the knowledge and skills you need to succeed in the digital age. Stay tuned for expert insights, practical tips, and hands-on tutorials that will take your web development game to the next level!"
 members: ["dgkulkarni", "sureshmashyal", "shubhabaravani"]
 ---
