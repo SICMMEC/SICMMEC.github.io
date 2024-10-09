@@ -39,7 +39,10 @@ code:
 error:
   404_title: "Page Not Found :confused:"
   404_error: "Error 404"
-  404_description: "It seems that the page you've requested does not exist, Please head back to the Home Page."
+  404_description: |
+    Oops! Looks like you've hit a dead end. 🚧 
+    Don't worry, even the best of us get lost sometimes. 🤷‍♂️ 
+    How about we get you back on track? 🛤️
 
 footer:
   dark_appearance: "Switch to dark appearance"
