@@ -3,7 +3,7 @@ title: "HACK TO FUTURE: SurplusToServe Website Development"
 date: 2024-09-25
 draft: false
 description: "Participated in HackToFuture, creating Surve to reduce food waste and combat hunger. 🌍💻 Innovating for a cause!"
-members: ["vighneshnilajakar", "shreyashkulkarni", "vinayakoalvankar", "bhavanikulkarni"]
+members: ["vighneshnilajakar", "shreyashkulkarni", "vinayakolavankar", "bhavanikulkarni"]
 ---
 
 ## 💻 Hackathon Experience: SurplusToServe Website Development

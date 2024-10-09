@@ -13,7 +13,7 @@ title = "INNOVATION | TechGeeks"
   description = "Student Innovation Club's Website @ Maratha Mandal's Engineering College, Belagavi. A Website to Showcase club's Achievements, Members and Projects."
   copyright = "© Copyright { year }, All Rights Reserved | TechGeeks"
 
-[author]
+[params.author]
   name = "Student Innovation Club"
   image = "logo/mmec_logo.png"
   headline = "At Maratha Mandal's Engineering College, Belagavi"
