@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bhavani Kulkarni on INNOVATION | TechGeeks</title>
-    <link>http://localhost:61189/members/bhavanikulkarni/</link>
+    <link>http://localhost:62803/members/bhavanikulkarni/</link>
     <description>Recent content in Bhavani Kulkarni on INNOVATION | TechGeeks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright 2024, All Rights Reserved | TechGeeks</copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:61189/members/bhavanikulkarni/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:62803/members/bhavanikulkarni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HACK TO FUTURE: SurplusToServe Website Development</title>
-      <link>http://localhost:61189/achievements/hackthefuture2024/</link>
+      <link>http://localhost:62803/achievements/hackthefuture2024/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61189/achievements/hackthefuture2024/</guid>
+      <guid>http://localhost:62803/achievements/hackthefuture2024/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;💻 Hackathon Experience: SurplusToServe Website Development 
     &lt;div id=&#34;-hackathon-experience-surplustoserve-website-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -30,12 +30,12 @@
     
     <item>
       <title> 🎉 Inauguration Day: A New Beginning for Tech Geeks - SIC! 🚀 </title>
-      <link>http://localhost:61189/events/inaugration_day/</link>
+      <link>http://localhost:62803/events/inaugration_day/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:61189/events/inaugration_day/</guid>
+      <guid>http://localhost:62803/events/inaugration_day/</guid>
       <description>&lt;p&gt;On a bright and bustling morning, the campus of Maratha Mandal Engineering College buzzed with anticipation as students, faculty, and guests gathered to witness a momentous occasion – the inauguration of Tech Geeks - Student Innovation Club (SIC). 🎈&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:61189/events/inaugration_day/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:62803/events/inaugration_day/featured.jpg" />
     </item>
     
   </channel>
