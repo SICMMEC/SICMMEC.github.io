@@ -1,6 +1,6 @@
 ---
 title: "StartUp Spark: AI-Powered Website Development Workshop"
-date: 2024-11-14
+date: 2024-11-13
 draft: false
 description: "Empowering beginners to build professional websites for portfolios, businesses, or startups using AI tools and free hosting platforms. 🚀✨"
 members: ["dgkulkarni", "shubhabaravani", "vighneshnilajakar", "vinayakkolavankar", "shreyashkulkarni", "sanjivanipawar"]
@@ -27,7 +27,7 @@ The **StartUp Spark Workshop** was all about empowering students to take their f
    Students applied their skills to create websites that reflect their personal or business ideas.  
    By the end of the workshop, participants had practical experience with modern tools and the confidence to showcase their creativity.
 
-{{< carousel images="event/*" aspectRatio="16-9" interval="1000">}}
+{{< carousel images="event/*" aspectRatio="16-9" interval="500">}}
 
 ### 🎥 Learn and Create
 Missed the workshop or want to revisit the steps? Watch our YouTube video where we guide you through hosting your website. This video provides valuable insights for beginners!  
